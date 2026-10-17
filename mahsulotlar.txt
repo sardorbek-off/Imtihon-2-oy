@@ -1,0 +1,6 @@
+Olma 12000 20
+Non 4000 30
+Sut 14000 10
+Noutbuk 8000000 2
+Sichqoncha 120000 10
+Eng qimmat: Noutbuk 8000000 2
